@@ -36,10 +36,12 @@ const MealList = props => {
 
 const styles = StyleSheet.create({
     list: {
+      
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        padding: 15
+        padding: 15,
+        
       }
 });
 
