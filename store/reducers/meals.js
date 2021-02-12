@@ -1,4 +1,3 @@
-import { State } from 'react-native-gesture-handler';
 import {MEALS} from '../../data/dummy-data';
 
 const initialState = {
